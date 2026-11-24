@@ -1,0 +1,1 @@
+Simpan screenshot asli hasil menjalankan project di XAMPP pada folder ini. Ambil bukti struktur direktori, template, function, routing, dan pengujian CRUD sesuai laporan. Folder ini sengaja tidak diisi gambar contoh/fiktif.
